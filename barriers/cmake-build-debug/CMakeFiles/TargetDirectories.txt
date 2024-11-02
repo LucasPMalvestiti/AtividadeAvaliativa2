@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/barriers/cmake-build-debug/CMakeFiles/barriers.dir
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/barriers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/barriers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

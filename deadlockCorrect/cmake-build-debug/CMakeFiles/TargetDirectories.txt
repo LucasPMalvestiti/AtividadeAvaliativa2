@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/deadlockCorrect/cmake-build-debug/CMakeFiles/deadlockCorrect.dir
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/deadlockCorrect/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/atividadeAvaliativa2/deadlockCorrect/cmake-build-debug/CMakeFiles/rebuild_cache.dir

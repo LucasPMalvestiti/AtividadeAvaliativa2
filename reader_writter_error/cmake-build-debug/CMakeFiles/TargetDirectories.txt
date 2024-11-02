@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/reader_writter_error/cmake-build-debug/CMakeFiles/reader_writter_error.dir
+C:/Users/lucas/CLionProjects/reader_writter_error/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/reader_writter_error/cmake-build-debug/CMakeFiles/rebuild_cache.dir
