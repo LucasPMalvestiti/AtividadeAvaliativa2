@@ -1,3 +1,5 @@
 # ninja log v6
 3	104	7522934329229184	CMakeFiles/deadlockError.dir/main.c.obj	4d577a1885939fc0
 106	223	7522934330261721	deadlockError.exe	2bc4bfd1fae25770
+5	273	7529568145801209	CMakeFiles/deadlockError.dir/main.c.obj	4d577a1885939fc0
+274	416	7529568148475594	deadlockError.exe	2bc4bfd1fae25770

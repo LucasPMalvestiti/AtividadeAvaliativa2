@@ -1,3 +1,5 @@
 # ninja log v6
 4	129	7522843123585972	CMakeFiles/barriers.dir/main.c.obj	1da23df19792cd21
 131	264	7522843124860017	barriers.exe	1c92b0f67ab376d8
+37	726	7529557600159382	CMakeFiles/barriers.dir/main.c.obj	1da23df19792cd21
+727	965	7529557607062449	barriers.exe	1c92b0f67ab376d8
